@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey folks, I'm [Filipe dos Santos](https://www.filipe.computer/)! 👋
 
-<!--
-**santosfilipe/santosfilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Security Engineer from Brazil <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/BR.svg">, specializing in Applied Cryptography and Penetration Testing. Technical-minded professional who possesses exceptional customer service and communication skills.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently studying for the [eLearnSecurity Junior Penetration Tester exam](https://elearnsecurity.com/product/ejpt-certification/), and planning to start [OSCP](https://www.offensive-security.com/pwk-oscp/) right after.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+
+- Website: [filipe.computer](https://www.filipe.computer/)
+- Twitter: [@notoriousfilipe](https://twitter.com/notoriousfilipe)
+- e-mail: `filipeds at protonmail dot com`
+
+### ⚡ Technologies:
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Expert-brightgreen?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-Fan-brightgreen?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=santosfilipe.santosfilipe)
