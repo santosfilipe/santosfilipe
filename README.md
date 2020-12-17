@@ -10,6 +10,11 @@
 - Twitter: [@notoriousfilipe](https://twitter.com/notoriousfilipe)
 - e-mail: `filipeds at protonmail dot com`
 
+### 📝 Latest Blog Posts:
+
+- [A Gentle Introduction to Credential Stuffing on HTTP Basic Authentication](https://www.filipe.computer/posts/2020/11/credential-stuffing/credential-stuffing-python3/)
+- [The best managed blockchain platform: Azure or AWS? - Part 1](https://www.filipe.computer/posts/2020/managed-blockchain/1/)
+
 ### ⚡ Technologies:
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Expert-brightgreen?style=flat-square)
