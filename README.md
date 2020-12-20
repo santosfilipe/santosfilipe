@@ -7,6 +7,7 @@
 ### 📫 How to reach me:
 
 - Website: [filipe.computer](https://www.filipe.computer/)
+- Linkedin: [santos-filipe](https://www.linkedin.com/in/santos-filipe/)
 - Twitter: [@notoriousfilipe](https://twitter.com/notoriousfilipe)
 - e-mail: `filipeds at protonmail dot com`
 
