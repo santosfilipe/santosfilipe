@@ -13,6 +13,7 @@
 
 ### 📝 Latest Blog Posts:
 
+- [My review of the INE/eLearnSecurity PTS course and eJPT exam](https://www.filipe.computer/posts/2021/03/ejpt-review/ejpt-review/)
 - [A Gentle Introduction to Credential Stuffing on HTTP Basic Authentication](https://www.filipe.computer/posts/2020/11/credential-stuffing/credential-stuffing-python3/)
 - [The best managed blockchain platform: Azure or AWS? - Part 1](https://www.filipe.computer/posts/2020/managed-blockchain/1/)
 
