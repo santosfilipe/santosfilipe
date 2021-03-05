@@ -1,6 +1,6 @@
 ### Hey folks, I'm [Filipe dos Santos](https://www.filipe.computer/)! 👋
 
-- Security Engineer from Brazil <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/BR.svg">, with 5 years of professional experience, specializing in Penetration Testing, Applied Cryptography and Incident Response. Technical-minded professional capable of thinking like both an attacker and defender, with exceptional customer service and communication skills, and a strong ability to multitask and resolve critical issues.
+- Security Engineer from Brazil <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/BR.svg">, with 5 years of professional experience, specializing in Penetration Testing, Applied Cryptography and Vulnerability Analysis. Technical-minded professional capable of thinking like both an attacker and defender, with exceptional customer service and communication skills, and a strong ability to multitask and resolve critical issues.
 
 - 🌱 I recently passed the [eLearnSecurity Junior Penetration Tester exam](https://elearnsecurity.com/product/ejpt-certification/), and I am planning to start [OSCP](https://www.offensive-security.com/pwk-oscp/) soon.
 
