@@ -1,6 +1,6 @@
 ### Hey folks, I'm [Filipe dos Santos](https://www.filipe.computer/)! 👋
 
-- Security Engineer from Brazil <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/BR.svg">, living in The Netherlands <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/NL.svg">, with 5 years of professional experience, specializing in Penetration Testing, Applied Cryptography and Vulnerability Analysis. Technical-minded professional capable of thinking like both an attacker and defender, with exceptional customer service and communication skills, and a strong ability to multitask and resolve critical issues.
+- Security Engineer from Brazil <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/BR.svg">, living in The Netherlands <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/NL.svg">, with 6 years of professional experience in cybersecurity, working with vulnerability management, applied cryptography, secure protocols, authentication and incident response. Technical-minded professional capable of thinking like both an attacker and defender, with exceptional customer service and communication skills, and a strong ability to multitask and resolve critical issues.
 
 ### 📫 How to reach me:
 
