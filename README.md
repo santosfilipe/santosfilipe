@@ -1,18 +1,19 @@
 ### Hey folks, I'm [Filipe dos Santos](https://www.filipe.computer/)! 👋
 
-- Security Engineer from Brazil <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/BR.svg">, living in The Netherlands <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/NL.svg">, with 6 years of professional experience in cybersecurity, working with vulnerability management, applied cryptography, secure protocols, authentication and incident response. Technical-minded professional capable of thinking like both an attacker and defender, with exceptional customer service and communication skills, and a strong ability to multitask and resolve critical issues.
+- Security Engineer from Brazil <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/BR.svg">, living in The Netherlands <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/NL.svg">, with 6 years of professional experience in cybersecurity, working with vulnerability management, applied cryptography, secure protocols and incident response. Technical-minded professional capable of thinking like both an attacker and defender, with exceptional customer service and communication skills, and a strong ability to multitask and resolve critical issues.
 
 ### 📫 How to reach me:
 
-- Website: [filipe.computer](https://www.filipe.computer/)
 - Linkedin: [santos-filipe](https://www.linkedin.com/in/santos-filipe/)
 - Twitter: [@notoriousfilipe](https://twitter.com/notoriousfilipe)
+- Blogchain: [@filipe](https://blogchain.app/id/filipe)
 - e-mail: `filipeds at protonmail dot com`
 - <a href="https://stackoverflow.com/users/188129" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 - <a href="https://security.stackexchange.com/users/188129" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
 
 ### 📝 Latest Blog Posts:
 
+- [Why You Should Care About IT Asset Management](https://blogchain.app/p/why-you-should-care-about-it-asset-management/A7d5Bepqnk)
 - [My review of the INE/eLearnSecurity PTS course and eJPT exam](https://www.filipe.computer/posts/2021/03/ejpt-review/ejpt-review/)
 - [A Gentle Introduction to Credential Stuffing on HTTP Basic Authentication](https://www.filipe.computer/posts/2020/11/credential-stuffing/credential-stuffing-python3/)
 - [The best managed blockchain platform: Azure or AWS? - Part 1](https://www.filipe.computer/posts/2020/managed-blockchain/1/)
