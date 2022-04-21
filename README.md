@@ -8,7 +8,7 @@
 - Twitter: [@notoriousfilipe](https://twitter.com/notoriousfilipe)
 - Blogchain: [@filipe](https://blogchain.app/id/filipe)
 - e-mail: `filipeds at protonmail dot com`
-- <a href="https://stackoverflow.com/users/188129" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
+- <a href="https://stackoverflow.com/users/6880494/filipe-dos-santos" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 - <a href="https://security.stackexchange.com/users/188129" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
 
 ### 📝 Latest Blog Posts:
