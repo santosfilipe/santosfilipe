@@ -1,6 +1,6 @@
 ### Hey folks, I'm [Filipe dos Santos](https://www.filipe.computer/)! 👋
 
-- Security Engineer from Brazil <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/BR.svg">, living in The Netherlands <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/NL.svg">, with 7 years of professional experience in cybersecurity, working with vulnerability management, applied cryptography, secure protocols and incident response. Technical-minded professional capable of thinking like both an attacker and defender, with exceptional customer service and communication skills, and a strong ability to multitask and resolve critical issues.
+- Security Engineer from Brazil <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/BR.svg">, living in The Netherlands <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/NL.svg">, with 8 years of professional experience in cybersecurity, working with vulnerability management, applied cryptography, secure protocols and incident response.
 
 ### 📫 How to reach me:
 
@@ -11,8 +11,6 @@
 ### 📝 Latest Blog Posts:
 
 - [My review of the INE/eLearnSecurity PTS course and eJPT exam](https://www.filipe.computer/posts/2021/03/ejpt-review/ejpt-review/)
-- [A Gentle Introduction to Credential Stuffing on HTTP Basic Authentication](https://www.filipe.computer/posts/2020/11/credential-stuffing/credential-stuffing-python3/)
-- [The best managed blockchain platform: Azure or AWS? - Part 1](https://www.filipe.computer/posts/2020/managed-blockchain/1/)
 
 ### ⚡ Technologies:
 
@@ -27,5 +25,3 @@
 ![nvim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=santosfilipe.santosfilipe)
