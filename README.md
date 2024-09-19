@@ -1,6 +1,6 @@
-### Hey folks, I'm [Filipe dos Santos](https://www.filipe.computer/)! 👋
+### Hey folks, I'm Filipe dos Santos! 👋
 
-- Senior Cyber Security Analyst from Brazil <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/BR.svg">, living in The Netherlands <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/NL.svg">, with 8 years of professional experience in cybersecurity, working with vulnerability management, applied cryptography, secure protocols and incident response.
+- Senior Vulnerability Analyst from Brazil <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/BR.svg">, living in The Netherlands <img height="15" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/svg/NL.svg">, with 8 years of professional experience in cybersecurity, working with vulnerability management, applied cryptography, secure protocols and incident response.
 
 ### 📫 How to reach me:
 
